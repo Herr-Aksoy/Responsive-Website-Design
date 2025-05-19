@@ -1,4 +1,4 @@
-<p align="center"><strong>3D-Portfolio-Project</strong></p>
+<p align="center"><strong>RESPONSIVE-WEBSITE-DESIGN</strong></p>
 <p align="center">
   <img src="https://github.com/Herr-Aksoy/Responsive-Website-Design/blob/main/project-images/readme-gif/Responsive-Website-Design.gif" width="700" height="250"/>  
 </p>
